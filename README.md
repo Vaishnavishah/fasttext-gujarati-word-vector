@@ -1,0 +1,1 @@
+# fasttext-gujarati-word-vector
